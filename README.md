@@ -1,8 +1,7 @@
 -  Hi, I’m @hezthewolf
--  A curious mind interested in data science, artificial intelligence and other stuff including space exploration and music production.
+-  High interest in data science, artificial intelligence and other stuff including space exploration and music production.
 -  I’m currently learning React, Python, Ruby on rails, Data structures and Algorithms.
 -  How to reach me:
-     Instagram: @hezthewolf
      Email: mokuahesbon254@gmail.com
 
 <!---
