@@ -1,4 +1,4 @@
--  Hi, I’m @hezthewolf
+-  Hi, I’m Hesbon aka @hezthewolf
 -  High interest in data science, artificial intelligence and other stuff including space exploration and music production.
 -  I’m currently learning React, Python, Ruby on rails, Data structures and Algorithms.
 -  How to reach me:
