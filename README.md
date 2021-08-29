@@ -6,7 +6,7 @@
 ## I'm a self-taught developer and music producer
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate onn open-source projects
+- 👯 I’m looking to collaborate on open-source projects
 - 🥅 2021 Goals: Contribute more to Open Source projects, 
 - ⚡ Fun fact: I love to draw and make music
 
@@ -50,7 +50,7 @@
 - [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr) -->
+<!--➡️ [more videos...](https://youtube.com/codestackr) -->
 
 ---
 
@@ -81,7 +81,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="hezthewolf's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="hezthewolf's GitHub Stats" src="https://github-readme-stats.hezthewolf.vercel.app/api?username=hezthewolf&show_icons=true&hide_border=true" />
 
 </details>
 
