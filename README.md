@@ -81,7 +81,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="hezthewolf's GitHub Stats" src="https://github-readme-stats.hezthewolf.vercel.app/api?username=hezthewolf&show_icons=true&hide_border=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hezthewolf)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
