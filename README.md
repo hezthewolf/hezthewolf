@@ -43,7 +43,7 @@
 ### 📺 Important resources that helped me
 
 <!-- YOUTUBE:START -->
-- [Python Full Course 🐍 (𝙁𝙧𝙚𝙚](https://www.youtube.com/watch?v=XKHEtdqhLK8&t=5446s)
+- [Python Full Course 🐍 (𝙁𝙧𝙚𝙚)](https://www.youtube.com/watch?v=XKHEtdqhLK8&t=5446s)
 - [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=14622s)
 - [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1237s)
 - [MongoDB Tutorial For Beginners | Full Course](https://www.youtube.com/watch?v=Www6cTUymCY&t=907s)
