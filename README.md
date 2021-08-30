@@ -1,9 +1,9 @@
-### Hi there, I'm Hesbon - aka [hezthewolf][website] 👋
+### Hi there, I'm Hesbon - aka [hezthewolf]<!--[website]--> 👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/offhez?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=offhez)
 
-## I'm a self-taught developer and music producer
+## I'm a self-taught developer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on open-source projects
@@ -13,9 +13,9 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="offhez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Hesbon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="hezthewolf | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -43,6 +43,14 @@
 ### 📺 Important resources that helped me
 
 <!-- YOUTUBE:START -->
+- [Python Full Course 🐍 (𝙁𝙧𝙚𝙚](https://www.youtube.com/watch?v=XKHEtdqhLK8&t=5446s)
+- [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=14622s)
+- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1237s)
+- [MongoDB Tutorial For Beginners | Full Course](https://www.youtube.com/watch?v=Www6cTUymCY&t=907s)
+- [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4&t=4373s)
+- [PHP For Absolute Beginners | 6.5 Hour Course](https://www.youtube.com/watch?v=2eebptXfEvw&t=8435s)
+- [jQuery Tutorial For Beginners | Developing User Interface (UI) Using jQuery | Edureka](https://www.youtube.com/watch?v=2OMzGhlIZpg)
+- [Algorithms and Data Structures - Full Course for Beginners from Treehouse](https://www.youtube.com/watch?v=8hly31xKli0&t=9000s)
 <!-- - [Remote Team Collaboration Techniques // Tara Z. Manicsic React Advanced London Interview](https://www.youtube.com/watch?v=vQjDWKy6Pcw)
 - [2021 Frontend Roadmap #shorts | Save This!](https://www.youtube.com/watch?v=CxDwSZwysjQ)
 - [Make $500k as a College Dropout 💲, Find Tech Jobs 🔍, Get Started in Quantum 💻 // STACKr News Weekly](https://www.youtube.com/watch?v=OttkdpbSchQ)
