@@ -1,4 +1,4 @@
-### Hi there, I'm Hesbon - aka [hezthewolf]<!--[website]--> 👋
+### Hi there, I'm Hesbon<!--[website]--> 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/offhez?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Foffhez&screen_name=offhez)
 
