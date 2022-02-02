@@ -1,6 +1,6 @@
 ### Hi there, I'm Hesbon<!--[website]--> 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/offhez?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Foffhez&screen_name=offhez)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hezthewolf?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhezthewolf&screen_name=hezthewolf)
 
 ## I'm a self-taught developer
 
@@ -12,7 +12,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="offhez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="hezthewolf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Hesbon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="hezthewolf | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -49,7 +49,7 @@
 
 </details>
 
-[twitter]: https://twitter.com/offhez
+[twitter]: https://twitter.com/hezthewolf
 [instagram]: https://instagram.com/hezthewolf
 [linkedin]: https://www.linkedin.com/in/hesbon-mokua-73a168211
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
