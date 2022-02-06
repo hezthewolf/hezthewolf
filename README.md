@@ -2,14 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hezthewolf?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhezthewolf&screen_name=hezthewolf)
 
-## I'm a self-taught developer
+## I'm a software developer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on open-source projects
-- 🥅 2022 Goals: Contribute more to Open Source projects, 
 - ⚡ Fun fact: I love to draw and make music
 
-### Connect with me:
+### Socials:
 
 
 [<img align="left" alt="hezthewolf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
