@@ -1,10 +1,8 @@
-### Hi there, I'm Hesbon<!--[website]--> 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/hezthewolf?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhezthewolf&screen_name=hezthewolf)
+### Hi there, I'm Hesbon👋
 
 ## I'm a software developer
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on open-source projects
 - ⚡ Fun fact: I love to draw and make music
 
@@ -44,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Hezthewolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=hezthewolf)](https://github.com/anuraghazra/github-readme-stats)
+  [![Hesbon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hezthewolf)](https://github.com/hezthewolf/github-readme-stats)
 
 
 </details>
