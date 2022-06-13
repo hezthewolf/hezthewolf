@@ -37,9 +37,3 @@
 
   [![Hesbon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hezthewolf)](https://github.com/hezthewolf/github-readme-stats)
 
-
-</details>
-
-[twitter]: https://twitter.com/hezthewolf
-[instagram]: https://instagram.com/hezthewolf
-[linkedin]: https://www.linkedin.com/in/hesbon-mokua-73a168211
