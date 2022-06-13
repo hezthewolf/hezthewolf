@@ -6,13 +6,6 @@
 - 👯 I’m looking to collaborate on open-source projects
 - ⚡ Fun fact: I love to draw and make music
 
-### Socials:
-
-
-[<img align="left" alt="hezthewolf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Hesbon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="hezthewolf | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages, Skills and Tools:
