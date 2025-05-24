@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on open-source projects
-- ⚡ Fun fact: I love to draw and make music
+- ⚡ Fun fact: I love drawing
 
 ### Languages, Skills and Tools:
 
